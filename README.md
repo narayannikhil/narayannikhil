@@ -33,9 +33,6 @@ MCA student with hands-on experience in DevOps automation, containerization, and
 - Optimized Docker images reducing size by 60%
 - Automated Git-to-Docker deployment
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=narayannikhil&show_icons=true&theme=radical)
 
 ### 🌱 Currently Learning
 
